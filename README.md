@@ -340,6 +340,4 @@ pip install fastapi uvicorn[standard]
 - docs/evaluation.md - Метрики оценки
 - docs/data.md - Описание формата данных
 
-## Лицензия
 
-Проект создан для участия в хакатоне Finam x HSE Trade AI Hack.
