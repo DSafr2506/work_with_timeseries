@@ -1,4 +1,4 @@
-# Finam x HSE Trade AI Hack - Forecast
+
 
 ## Описание проекта
 
